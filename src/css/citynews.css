@@ -1,0 +1,273 @@
+.city-news-div {
+    position: absolute;
+    top: 47px;
+    left: 25px;
+    font-size: 32px;
+    color: #fff;
+    display: inline-block;
+  }
+  .rectangle-div,
+  .rectangle-div1 {
+    position: absolute;
+    height: 72.57%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 27.43%;
+    left: 0;
+    border-radius: 14px;
+    background-color: #411414;
+  }
+  .rectangle-div1 {
+    height: 54.42%;
+    width: 85.06%;
+    top: 45.58%;
+    right: 7.47%;
+    bottom: 0;
+    left: 7.47%;
+    background-color: #fff;
+  }
+  .ellipse-icon,
+  .ellipse-icon1 {
+    position: absolute;
+    height: 17.7%;
+    width: 12.99%;
+    top: 52.21%;
+    right: 74.68%;
+    bottom: 30.09%;
+    left: 12.34%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .ellipse-icon1 {
+    object-fit: cover;
+  }
+  .andrew-b {
+    height: 9.73%;
+    width: 22.73%;
+    top: 52.21%;
+    right: 49.68%;
+    bottom: 38.05%;
+    font-size: 18px;
+  }
+  .andrew-b,
+  .nov-div,
+  .want-to-level-up-your-exploita {
+    position: absolute;
+    left: 27.6%;
+    display: inline-block;
+  }
+  .nov-div {
+    height: 5.31%;
+    width: 10.39%;
+    top: 61.95%;
+    right: 62.01%;
+    bottom: 32.74%;
+    font-weight: 600;
+  }
+  .want-to-level-up-your-exploita {
+    height: 24.78%;
+    width: 61.36%;
+    top: 71.24%;
+    right: 11.04%;
+    bottom: 3.98%;
+  }
+  .component-1-div {
+    position: absolute;
+    top: 98px;
+    left: 25px;
+    width: 308px;
+    height: 226px;
+  }
+  .rectangle-div2,
+  .rectangle-div3 {
+    position: absolute;
+    height: 100%;
+    width: 84.52%;
+    top: 3.25%;
+    right: 0;
+    bottom: -3.25%;
+    left: 15.48%;
+    border-radius: 14px;
+    background-color: #fff;
+  }
+  .rectangle-div3 {
+    height: 92.68%;
+    width: 39.68%;
+    top: 7.32%;
+    right: 50%;
+    bottom: 0;
+    left: 10.32%;
+    background-color: #411414;
+  }
+  .ellipse-icon2 {
+    position: absolute;
+    height: 32.52%;
+    width: 12.9%;
+    top: 12.2%;
+    right: 4.84%;
+    bottom: 55.28%;
+    left: 82.26%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .andrew-b1 {
+    height: 17.89%;
+    width: 22.58%;
+    top: 20.33%;
+    right: 20%;
+    bottom: 61.79%;
+    font-size: 18px;
+  }
+  .andrew-b1,
+  .nov-div1,
+  .want-to-level-up-your-exploita1 {
+    position: absolute;
+    left: 57.42%;
+    display: inline-block;
+  }
+  .nov-div1 {
+    height: 9.76%;
+    width: 10.32%;
+    top: 12.2%;
+    right: 32.26%;
+    bottom: 78.05%;
+    font-weight: 600;
+  }
+  .want-to-level-up-your-exploita1 {
+    height: 45.53%;
+    width: 39.35%;
+    top: 50.41%;
+    right: 3.23%;
+    bottom: 4.07%;
+    text-align: left;
+  }
+  .component-2-div,
+  .component-3-div {
+    position: absolute;
+    top: 383px;
+    left: 0;
+    width: 310px;
+    height: 123px;
+    text-align: right;
+  }
+  .component-3-div {
+    top: 565px;
+    left: -7px;
+  }
+  .rectangle-div6,
+  .rectangle-div7 {
+    position: absolute;
+    height: 79.35%;
+    width: 97.4%;
+    top: 20.65%;
+    right: 2.6%;
+    bottom: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #fff;
+  }
+  .rectangle-div7 {
+    height: 73.55%;
+    width: 45.72%;
+    top: 10.97%;
+    right: 0;
+    bottom: 15.48%;
+    left: 54.28%;
+    background-color: #411414;
+  }
+  .rectangle-div8 {
+    position: absolute;
+    height: 27.1%;
+    width: 44.61%;
+    top: 0;
+    right: 18.96%;
+    bottom: 72.9%;
+    left: 36.43%;
+    background-color: #25577b;
+  }
+  .post-news-div {
+    position: absolute;
+    height: 9.68%;
+    width: 21.93%;
+    top: 8.39%;
+    right: 30.48%;
+    bottom: 81.94%;
+    left: 47.58%;
+    display: inline-block;
+  }
+  .component-4-div {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-size: 12px;
+    color: #fff;
+  }
+  .ellipse-icon4 {
+    position: absolute;
+    height: 25.81%;
+    width: 14.87%;
+    top: 27.1%;
+    right: 80.67%;
+    bottom: 47.1%;
+    left: 4.46%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .andrew-b3,
+  .nov-div3 {
+    position: absolute;
+    left: 21.56%;
+    text-align: right;
+    display: inline-block;
+  }
+  .andrew-b3 {
+    height: 14.19%;
+    width: 26.02%;
+    top: 33.55%;
+    right: 52.42%;
+    bottom: 52.26%;
+    font-size: 18px;
+  }
+  .nov-div3 {
+    height: 7.74%;
+    width: 11.9%;
+    top: 27.1%;
+    right: 66.54%;
+    bottom: 65.16%;
+    font-weight: 600;
+  }
+  .want-to-level-up-your-exploita3 {
+    position: absolute;
+    height: 36.13%;
+    width: 45.35%;
+    top: 60.65%;
+    right: 50.19%;
+    bottom: 3.23%;
+    left: 4.46%;
+    display: inline-block;
+  }
+  .component-5-div {
+    position: absolute;
+    top: 715px;
+    left: 41px;
+    width: 269px;
+    height: 155px;
+  }
+  .container {
+    position: relative;
+    background-color: #6f95cf;
+    width: 100%;
+    height: 922px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 10px;
+    color: #000;
+    font-family: Inter;
+  }
